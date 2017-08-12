@@ -124,5 +124,5 @@ qiniu:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git 
-  repo: ssh://git@github.com/HirahKong/HirahKong.github.io
+  repo: ssh://git@github.com/HaoRuiK/HaoRuiK.github.io
   branch: master
