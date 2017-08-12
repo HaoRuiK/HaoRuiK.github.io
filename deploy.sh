@@ -1,2 +1,0 @@
-hexo generate
-hexo d
