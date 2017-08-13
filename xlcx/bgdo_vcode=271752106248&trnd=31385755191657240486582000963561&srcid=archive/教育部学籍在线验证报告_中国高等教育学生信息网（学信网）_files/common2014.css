@@ -20,9 +20,9 @@ h1{position:absolute; left:0; top:-30px; margin-top:-30px; height:30px; line-hei
 .t_top_nav_l{width:750px; float:left; display:inline;}
 .t_top_nav_r{width:240px; float:left; display:inline; text-align:right;}
 .t_header{ min-width:1000px; height:100px; background:#FFFFFF;}
-.t_h_logo{float:left; display:inline; width:95px; height:100px; margin-left:10px; background-image:url(../images/2014/logo.png);background-image:-webkit-image-set(url(../images/2014/logo.png) 1x,url(../images/2014/logo2x.png) 2x); background-repeat: no-repeat; background-position: 0 27px; position:relative; overflow:hidden;}
+.t_h_logo{float:left; display:inline; width:95px; height:100px; margin-left:10px; background-image:url(http://www.chsi.com.cn/images/2014/logo.png);background-image:-webkit-image-set(url(http://www.chsi.com.cn/images/2014/logo.png) 1x,url(http://www.chsi.com.cn/images/2014/logo2x.png) 2x); background-repeat: no-repeat; background-position: 0 27px; position:relative; overflow:hidden;}
 .t_h_logo a.home{display:block; width:95px; height:100px; position:absolute; left:0; top:0; cursor:pointer;}
-.t_header h2{float:left; display:inline; width:605px;  background-image:url(../images/2014/title.png?20170619);background-image:-webkit-image-set(url(../images/2014/title.png?20170619) 1x,url(../images/2014/title2x.png?20170619) 2x); background-repeat: no-repeat; background-position: 0 0; padding-top:24px; margin-top:31px; font-size:12px; line-height:25px; font-weight:normal; color:#2EAFBB; position:relative;}
+.t_header h2{float:left; display:inline; width:605px;  background-image:url(http://www.chsi.com.cn/images/2014/title.png?20170619);background-image:-webkit-image-set(url(http://www.chsi.com.cn/images/2014/title.png?20170619) 1x,url(http://www.chsi.com.cn/images/2014/title2x.png?20170619) 2x); background-repeat: no-repeat; background-position: 0 0; padding-top:24px; margin-top:31px; font-size:12px; line-height:25px; font-weight:normal; color:#2EAFBB; position:relative;}
 .t_header h2 a.home{ display:block; width:320px; height:24px; position:absolute; left:0; top:0; cursor:pointer;}
 .t_h_search{float:right; display:inline; width:230px; padding-top:48px; padding-right:10px;}
 .t_h_s_input{ height:18px; padding:4px 0 4px 3px; line-height:18px; border:1px solid #D6D6D6; border-right:none; width:170px;}
@@ -34,16 +34,16 @@ h1{position:absolute; left:0; top:-30px; margin-top:-30px; height:30px; line-hei
 /*内容框架*/
 .main{width:998px; border:1px solid #E6E6E6; background:#FFFFFF; margin:20px auto 0 auto; clear:both;}
 .m_yah{height:40px; line-height:40px; color:#666666; border-bottom:1px solid #E6E6E6; padding:0 20px; font-size:12px;}
-.m_l{width:779px; float:left; display:inline; background:url(../images/2014/vline.gif) repeat-y right; padding-bottom:20px;}
-.m_r{width:220px; float:left; display:inline; background:url(../images/2014/vline.gif) repeat-y left; margin-left:-1px; padding-bottom:20px; font-size:12px; line-height:24px;}
-.m_s_l{width:219px; float:left; display:inline; background:url(../images/2014/vline.gif) repeat-y right; padding-bottom:20px; padding-right:1px;}
+.m_l{width:779px; float:left; display:inline; background:url(http://www.chsi.com.cn/images/2014/vline.gif) repeat-y right; padding-bottom:20px;}
+.m_r{width:220px; float:left; display:inline; background:url(http://www.chsi.com.cn/images/2014/vline.gif) repeat-y left; margin-left:-1px; padding-bottom:20px; font-size:12px; line-height:24px;}
+.m_s_l{width:219px; float:left; display:inline; background:url(http://www.chsi.com.cn/images/2014/vline.gif) repeat-y right; padding-bottom:20px; padding-right:1px;}
 .m_s_l_menu{ height:48px; line-height:48px; border-top:1px solid #E6E6E6; border-bottom:1px solid #E6E6E6; margin-top:-1px; background:#F9F9F9; font-size:18px; font-weight:bold; padding-left:20px;color:#2EAFBB;}
 .m_s_l_ul{ width:180px; margin:10px auto 20px auto;}
 .m_s_l_ul li{ width:158px; border-bottom:1px dotted #DDDDDD; padding:4px 0px 4px 22px; position:relative;}
 .m_s_l_ul li.onread a,.m_s_l_ul li.onread a:link{color:#2EAFBB; font-weight:bold;}
-.m_s_l_ul li span.icon_list{ position:absolute; left:2px; top:10px; height:16px; width:16px; display:block; background:url(../images/2014/icon_list.png) no-repeat 0 0; overflow:hidden;}
-.m_s_l_ul li.onread span.icon_list{background:url(../images/2014/icon_list.png) no-repeat 0 -16px;}
-.m_s_r{width:779px; padding-bottom:20px; float:left; display:inline; background:url(../images/2014/vline.gif) repeat-y left; margin-left:-1px;}
+.m_s_l_ul li span.icon_list{ position:absolute; left:2px; top:10px; height:16px; width:16px; display:block; background:url(http://www.chsi.com.cn/images/2014/icon_list.png) no-repeat 0 0; overflow:hidden;}
+.m_s_l_ul li.onread span.icon_list{background:url(http://www.chsi.com.cn/images/2014/icon_list.png) no-repeat 0 -16px;}
+.m_s_r{width:779px; padding-bottom:20px; float:left; display:inline; background:url(http://www.chsi.com.cn/images/2014/vline.gif) repeat-y left; margin-left:-1px;}
 .m_s_r p{ text-indent:2em; margin-bottom:1em;}
 .m_l h2,.m_s_r h2{font-size:24px; font-weight:normal; text-align:center; line-height:40px; padding:15px 0 10px 0; color:#2EAFBB;}
 .xlrz_cnt_en h2{ font-size:20px;}
@@ -71,18 +71,18 @@ h1{position:absolute; left:0; top:-30px; margin-top:-30px; height:30px; line-hei
 .printBG { margin:10px 0;height:30px;float:right; display:inline; position:relative; z-index:1000;}
 a.iconClick,a.iconClick:link{ display:block; float:left; width:30px; height:30px; margin-left:10px;}
 a.iconClick:hover{ text-decoration:none;}
-a.iconPrint{ background:url(../images/2014/print.png) no-repeat 0 0;}
-a.iconPrint:hover{ background:url(../images/2014/print.png) no-repeat 0 -30px;}
-a.iconDownload{ background:url(../images/2014/print.png) no-repeat -30px 0;}
-a.iconDownload:hover{ background:url(../images/2014/print.png) no-repeat -30px -30px;}
-a.iconEmail{ background:url(../images/2014/print.png) no-repeat -60px 0;}
-a.iconEmail:hover{ background:url(../images/2014/print.png) no-repeat -60px -30px;}
-a.iconXxewm{ background:url(../images/2014/print.png) no-repeat -90px 0;}
-a.iconXxewm:hover{ background:url(../images/2014/print.png) no-repeat -90px -30px;}
+a.iconPrint{ background:url(http://www.chsi.com.cn/images/2014/print.png) no-repeat 0 0;}
+a.iconPrint:hover{ background:url(http://www.chsi.com.cn/images/2014/print.png) no-repeat 0 -30px;}
+a.iconDownload{ background:url(http://www.chsi.com.cn/images/2014/print.png) no-repeat -30px 0;}
+a.iconDownload:hover{ background:url(http://www.chsi.com.cn/images/2014/print.png) no-repeat -30px -30px;}
+a.iconEmail{ background:url(http://www.chsi.com.cn/images/2014/print.png) no-repeat -60px 0;}
+a.iconEmail:hover{ background:url(http://www.chsi.com.cn/images/2014/print.png) no-repeat -60px -30px;}
+a.iconXxewm{ background:url(http://www.chsi.com.cn/images/2014/print.png) no-repeat -90px 0;}
+a.iconXxewm:hover{ background:url(http://www.chsi.com.cn/images/2014/print.png) no-repeat -90px -30px;}
 .newLayer{ display:none; position:absolute; right:0; top:40px; z-index:1001; border:1px solid #D6D6D6; border-top:3px solid #2EAFBB; background:#FFFFFF; padding:20px;}
 .newLayerArrow{display:block;position:absolute;overflow:hidden; top:-11px;border-left:8px solid transparent; border-right:8px solid transparent; border-bottom:8px solid #2EAFBB; width:0; height:0;}
-a.newLayerClose,a.newLayerClose:link{display:block;position:absolute; right:6px; top:6px; padding:0;overflow:hidden; width:16px; height:16px; background:url(../images/2014/icon_list.png) no-repeat 0 -32px;}
-a.newLayerClose:hover{background:url(../images/2014/icon_list.png) no-repeat 0 -48px;}
+a.newLayerClose,a.newLayerClose:link{display:block;position:absolute; right:6px; top:6px; padding:0;overflow:hidden; width:16px; height:16px; background:url(http://www.chsi.com.cn/images/2014/icon_list.png) no-repeat 0 -32px;}
+a.newLayerClose:hover{background:url(http://www.chsi.com.cn/images/2014/icon_list.png) no-repeat 0 -48px;}
 /*footer*/
 .foot{width:100%; min-width:1000px;padding:20px 0; margin-top:20px; color:#666666; font-size:12px; line-height:30px; text-align:center; border-top:1px solid #DDDDDD;}
 .foot a,.foot a:link,.foot a:visited{ color:#666666;}
